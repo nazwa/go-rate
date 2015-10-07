@@ -1,6 +1,9 @@
 go-rate
 ===============
 
+**WARNING** this fork doesn't have the internal mutex! Make sure you sync access yourself!
+
+
 [![Build Status](https://travis-ci.org/beefsack/go-rate.svg?branch=master)](https://travis-ci.org/beefsack/go-rate)
 [![GoDoc](https://godoc.org/github.com/beefsack/go-rate?status.svg)](https://godoc.org/github.com/beefsack/go-rate)
 
